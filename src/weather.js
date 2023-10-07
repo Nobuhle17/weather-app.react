@@ -13,5 +13,6 @@ root.render(
     <div className="App">
       <Weather />
     </div>
+    <small>Coded by Nobuhle</small><a href="https://github.com/Nobuhle17/weather-app.react">Open Source</a>
   </StrictMode>
 );

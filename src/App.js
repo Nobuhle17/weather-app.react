@@ -61,6 +61,7 @@ export default function Weather() {
             <li>Humidity: {weatherData.humidity}%</li>
             <li>Wind: {weatherData.wind} km/h</li>
           </ul>
+          <small>Coded by Nobuhle</small><a href="https://github.com/Nobuhle17/weather-app.react">Open Source</a>
         </div>
       </div>
     </div>
