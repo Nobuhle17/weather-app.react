@@ -62,6 +62,7 @@ export default function Weather() {
             <li>Wind: {weatherData.wind} km/h</li>
           </ul>
           <small>Coded by Nobuhle</small><a href="https://github.com/Nobuhle17/weather-app.react">Open Source</a>
+          <button>Hello</button>
         </div>
       </div>
     </div>
